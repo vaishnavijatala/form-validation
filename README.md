@@ -30,5 +30,10 @@ A simple yet effective form validation system using **HTML, CSS, JavaScript, and
 2. Ensure all inputs meet validation rules.
 3. Click **"Submit"** – If all fields are valid, a success alert appears!
 
+## 📦 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vaishnavijatala/form-validation.git
+
 ## 📜 License
 This project is **open-source** and free to use.
